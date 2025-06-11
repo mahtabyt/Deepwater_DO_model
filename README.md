@@ -26,7 +26,7 @@ The code was written in Python 3.8+ and requires the following packages:
 - `hydroeval`  _(can be installed via pip: `pip install hydroeval`)_
 
 ## Setup
-input_dir: the path to your local folder containing the input data (e.i, Lake Erken bathymetry, temperature and DO profiles).
+- input_dir: the path to your local folder containing the input data (e.i, Lake Erken bathymetry, temperature and DO profiles).
 *** IMPORTANT: Update this path in the code to match your local setup.***
-output_dir: the folder where model outputs and results will be saved.
-output_data_checking_file: a local file used as a checkpoint to store a copy of the final results after code execution.
+- output_dir: the folder where model outputs and results will be saved.
+- output_data_checking_file: a local file used as a checkpoint to store a copy of the final results after code execution.
