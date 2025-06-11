@@ -16,7 +16,7 @@ The project involves:
    as the likelihood function, across the years 2019–2022.
 
 ## Dependencies
-The code was written in Python 3.8+ and requires the following packages:
+The code was written in Python 3.8+ and requires the following packages: 
 
 - `numpy`
 - `pandas`
@@ -25,6 +25,7 @@ The code was written in Python 3.8+ and requires the following packages:
 - `scikit-learn`
 - `hydroeval`  _(can be installed via pip: `pip install hydroeval`)_
 
+*** These packages can be installed by running "install_packages.py" ***
 ## Setup
 - input_dir: the path to your local folder containing the input data (e.i, Lake Erken bathymetry, temperature and DO profiles). (IMPORTANT: Update this path in the code to match your local setup.)
 - output_dir: the folder where model outputs and results will be saved.
