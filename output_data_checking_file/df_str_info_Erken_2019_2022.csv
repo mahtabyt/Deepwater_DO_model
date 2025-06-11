@@ -1,0 +1,6 @@
+index_str_period_in_year,onset_dates,onset_indices,initial_cond_indices,end_dates,end_indices,str_duration,replanishment_duration,end_dates_Jday,onset_dates_Jday,year
+0,2019-05-15,28,27,2019-06-30,74,47,,181,135,2019
+1,2019-07-12,86,85,2019-08-30,135,50,11.0,242,193,2019
+0,2020-05-22,240,239,2020-09-03,344,105,,247,143,2020
+0,2021-05-13,457,456,2021-08-27,563,107,,239,133,2021
+0,2022-05-23,669,668,2022-08-31,769,101,,243,143,2022
